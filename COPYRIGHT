@@ -1,0 +1,29 @@
+Copyright (c) 2007-2025 eYssen
+
+This repository is a fork of Odoo Community Edition.
+Unless otherwise noted in specific files or directories, modifications and
+additions made by eYssen are:
+  - Copyright (c) 2007-2025 eYssen
+  - Licensed under the GNU LGPL v3 (LGPL-3.0)
+
+Contributors to this fork are recorded in the version control history.
+Where third-party code is included, its original copyright and license
+terms are preserved in the file headers and/or adjacent LICENSE files.
+
+-------------------------------------------------------------------------------
+
+Upstream Odoo COPYRIGHT notice (retained for attribution):
+
+Most of the files are
+
+  Copyright (c) 2004-2015 Odoo S.A.
+
+Many files also contain contributions from third
+parties. In this case the original copyright of
+the contributions can be traced through the
+history of the source version control system.
+
+When that is not the case, the files contain a prominent
+notice stating the original copyright and applicable
+license, or come with their own dedicated COPYRIGHT
+and/or LICENSE file.
